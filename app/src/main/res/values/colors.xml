@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryTransparent">#7F3F51B5</color>
+    <color name="colorPrimaryDark">#1a237e</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_text_color">#ffffff</color>
+    <color name="secondary_text_color">#d7d7d7</color>
+    <color name="tertiary_text_color">#000000</color>
+</resources>
